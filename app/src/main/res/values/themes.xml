@@ -6,4 +6,9 @@
     </style>
 
     <style name="Theme.Final_project" parent="Base.Theme.Final_project" />
+
+    <!-- 스플래시 화면 -->
+    <style name="AppTheme.Splash" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenBackground">@color/black</item>
+    </style>
 </resources>
